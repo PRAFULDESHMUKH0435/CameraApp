@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 class PickImage extends StatefulWidget {
-  const PickImage({super.key});
+   PickImage({super.key});
 
   @override
   State<PickImage> createState() => _PickImageState();
